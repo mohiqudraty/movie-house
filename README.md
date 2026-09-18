@@ -21,6 +21,6 @@ A responsive movie explorer app built with React. Browse movies, search by title
 Clone the repo and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mohiqudraty/movie-house.git
 cd movie-house
 npm install
