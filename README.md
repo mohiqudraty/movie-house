@@ -1,5 +1,7 @@
 # 🎬 Movie House
 
+
+
 A responsive movie explorer app built with React. Browse movies, search by title, and view details in an  modal.
 
 ## Features
@@ -15,6 +17,10 @@ A responsive movie explorer app built with React. Browse movies, search by title
 - React Router
 - Tailwind CSS
 - TVMaze API
+
+## Live Demo
+
+https://movie-house-ruby.vercel.app/
 
 ## Getting Started
 
