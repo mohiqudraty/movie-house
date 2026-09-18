@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import SearchBar from "../components/Searchbar";
+import SearchBar from "../components/SearchBar";
 import MovieCard from "../components/MovieCard";
 import MovieModal from "../components/MovieModal";
 import Loader from "../components/Loader";
